@@ -242,3 +242,9 @@ Orr (Catch-22)
 > Be less curious about people and more curious about ideas.
 
 Marie Curie
+
+---
+
+> Brevity is the Soul of Wit
+
+Shakespeare
