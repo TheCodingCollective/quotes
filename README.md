@@ -295,3 +295,9 @@ A. P. J. Abdul Kalam
 Will Smith
 
 ---
+
+> In God We Trust, All Others Must Bring Data
+
+William E. Deming
+
+
