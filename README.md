@@ -13,6 +13,7 @@ To add to the list of quotes:
 3.  Create Pull Request.
 
 ##The Quotes
+> Love has a tide! --Helen Hunt Jackson 
 
 ---
 > Trust in God, but make sure you tie up your camel.
