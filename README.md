@@ -508,3 +508,6 @@ Mark Hatfield
 Dorian Sommerfeld
 
 ---
+
+> This is an example of a quote
+---
